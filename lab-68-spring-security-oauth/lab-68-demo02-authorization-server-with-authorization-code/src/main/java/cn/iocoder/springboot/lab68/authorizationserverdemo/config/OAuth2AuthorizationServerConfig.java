@@ -13,7 +13,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Aut
  * 授权服务器配置
  */
 @Configuration
-@EnableAuthorizationServer
+@EnableAuthorizationServerBridgeMethodResolver
 public class OAuth2AuthorizationServerConfig extends AuthorizationServerConfigurerAdapter {
 
     /**

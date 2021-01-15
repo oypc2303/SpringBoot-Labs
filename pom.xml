@@ -112,6 +112,10 @@
 <!--        <module>labx-29-spring-cloud-consul-bus</module>-->
 <!--        <module>labx-30-spring-cloud-grpc</module>-->
         <module>lab-71-http-debug</module>
+        <module>pcoy-02-spring-security-ruoyi</module>
+
+
+        <!--<module>pcoy-01-springboot</module>-->
     </modules>
 
 </project>
